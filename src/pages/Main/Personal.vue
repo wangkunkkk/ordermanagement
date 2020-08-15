@@ -9,6 +9,7 @@
       管理员头像:
       <img :src="personal.imgUrl" />
     </p>
+    
     <p>
       <el-upload
         class="upload-demo"
